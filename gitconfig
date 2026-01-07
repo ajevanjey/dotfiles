@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = info.ajeymedia@gmail.com
+	name = exec zsh
